@@ -1,0 +1,3 @@
+While true do
+   Game.ReplicatedStorage.MainEvent:FireServer("Stomp")
+end
